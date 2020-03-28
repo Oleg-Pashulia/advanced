@@ -1,0 +1,9 @@
+.footer{
+	width: 100%;
+    height: 100px;
+    background-color: rgb(211, 129, 204);
+    font-size: 20px;
+    color: darkslategray;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    box-shadow: red 0px 0px 125px 0px;
+}
